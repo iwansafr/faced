@@ -32,8 +32,6 @@
                 <form action="image.php" method="post" enctype="multipart/form-data">
                     <input type="file" name="image" accept="image/*" class="form-control">
                     <br>
-                    <input type="file" name="image2" accept="image/*" class="form-control">
-                    <br>
                     <button type="submit" style="border-radius: 0px;" class="btn btn-lg btn-block btn-outline-success">Detect Face</button>
                 </form>
             </div>
